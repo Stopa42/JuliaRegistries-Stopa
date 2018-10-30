@@ -1,0 +1,9 @@
+name = "Stopa"
+uuid = "c03715c0-dc75-11e8-093f-0fc772ebeb77"
+repo = "https://github.com/JuliaRegistries/General.git"
+
+description = """
+Stopa42's personal registries for his own Julia packages.
+"""
+
+[packages]
