@@ -1,9 +1,10 @@
 name = "Stopa"
 uuid = "c03715c0-dc75-11e8-093f-0fc772ebeb77"
-repo = "https://github.com/JuliaRegistries/General.git"
+repo = "https://github.com/Stopa42/JuliaRegistries-Stopa.git"
 
 description = """
 Stopa42's personal registries for his own Julia packages.
 """
 
 [packages]
+c1be5200-dc75-11e8-29d0-8379e2d88597 = { name = "DifferentialAlgebra", path = "DifferentialAlgebra" }
